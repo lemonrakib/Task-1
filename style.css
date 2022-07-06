@@ -211,15 +211,12 @@ body {
     border-radius: 5px;
     padding: 60px 20px;
 }
-
 .int {}
-
 .s-btn {
     color: white;
     cursor: pointer;
     background-color: tomato;
 }
-
 .content {
     background-color: black;
     width: 100%;
@@ -227,7 +224,6 @@ body {
     justify-content: center;
     padding: 20px;
 }
-
 .details {
     color: white;
     text-align: center;
